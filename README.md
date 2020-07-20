@@ -1,1 +1,1 @@
-# teoria-de-lenguajes
+# Prácticas de teoría de lenguajes
