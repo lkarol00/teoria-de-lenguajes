@@ -1,1 +1,2 @@
-# Prácticas de teoría de lenguajes
+# Teoría de lenguajes
+Prácticas relacionadas a la materia teoría de lenguajes, UdeA.
